@@ -20,6 +20,15 @@ const teamMembers = [
     website: "",
     bio: "A passionate Full stack develpoer to create an innovative solution in the field in of Web Development"
   },
+    {
+    name: "Arun pandey",
+    role: "Full Stack Developer",
+    github: "dev070903",
+    linkedin: "https://www.linkedin.com/in/yashpandey127/",
+    email: "yash127pandey@gmail.com",
+    website: "",
+    bio: "A passionate Full stack develpoer to create an innovative solution in the field in of Web Development"
+  },
   // Add more team members here
 ];
 
