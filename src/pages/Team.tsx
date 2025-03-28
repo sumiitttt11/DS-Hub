@@ -8,7 +8,8 @@ const teamMembers = [
     github: "sumiitttt11",
     linkedin: "https://www.linkedin.com/in/sumiitttt11/",
     email: "kumawatsumit984@gmail.com",
-    website: "https://sumitkumawat.vercel.app"
+    website: "https://sumitkumawat.vercel.app",
+    bio: "A passionate developer dedicated to creating innovative solutions in the field of data science. Leading the technical development of LTCoE Data Science Hub with expertise in modern web technologies and data visualization."
   },
   {
     name: "Yash pandey",
@@ -16,7 +17,8 @@ const teamMembers = [
     github: "yashhp12",
     linkedin: "https://www.linkedin.com/in/yash-pandey-193841296//",
     email: "yash127pandey@gmail.com",
-    website: "https://sumitkumawat.vercel.app"
+    website: "https://sumitkumawat.vercel.app",
+    bio: "A passionate Full stack develpoer to create an innovative solution in the field in of Web Development"
   },
   // Add more team members here
 ];
@@ -60,9 +62,7 @@ const Team = () => {
                   <h2 className="text-3xl font-bold text-white mb-2">{member.name}</h2>
                   <p className="text-xl text-purple-400 mb-4">{member.role}</p>
                   <p className="text-gray-300 mb-6 max-w-2xl">
-                    A passionate developer dedicated to creating innovative solutions in the field of data science. 
-                    Leading the technical development of LTCoE Data Science Hub with expertise in modern web technologies 
-                    and data visualization.
+                    {member.bio}
                   </p>
                   <div className="flex items-center justify-center md:justify-start space-x-4">
                     <a
