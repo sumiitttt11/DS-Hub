@@ -15,7 +15,7 @@ const teamMembers = [
     name: "Yash pandey",
     role: "Full Stack Developer",
     github: "yashhp12",
-    linkedin: "https://www.linkedin.com/in/yash-pandey-193841296//",
+    linkedin: "https://www.linkedin.com/in/yashpandey127/",
     email: "yash127pandey@gmail.com",
     website: "",
     bio: "A passionate Full stack develpoer to create an innovative solution in the field in of Web Development"
