@@ -17,7 +17,7 @@ const teamMembers = [
     github: "yashhp12",
     linkedin: "https://www.linkedin.com/in/yash-pandey-193841296//",
     email: "yash127pandey@gmail.com",
-    website: "https://sumitkumawat.vercel.app",
+    website: "",
     bio: "A passionate Full stack develpoer to create an innovative solution in the field in of Web Development"
   },
   // Add more team members here
