@@ -10,14 +10,14 @@ const teamMembers = [
     email: "kumawatsumit984@gmail.com",
     website: "https://sumitkumawat.vercel.app"
   },
-  // {
-  //   name: "Yash pandey",
-  //   role: "Lead Developer",
-  //   github: "sumiitttt11",
-  //   linkedin: "https://www.linkedin.com/in/yash-pandey-193841296//",
-  //   email: "kumawatsumit984@gmail.com",
-  //   website: "https://sumitkumawat.vercel.app"
-  // },
+  {
+    name: "Yash pandey",
+    role: "Full Stack Developer",
+    github: "yashhp12",
+    linkedin: "https://www.linkedin.com/in/yash-pandey-193841296//",
+    email: "yash127pandey@gmail.com",
+    website: "https://sumitkumawat.vercel.app"
+  },
   // Add more team members here
 ];
 
