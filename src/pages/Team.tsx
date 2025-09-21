@@ -7,8 +7,8 @@ const teamMembers = [
     role: "Lead Developer",
     github: "sumiitttt11",
     linkedin: "https://www.linkedin.com/in/sumiitttt11/",
-    email: "kumawatsumit984@gmail.com",
-    website: "https://sumitkumawat.vercel.app",
+    email: "work.sumitkumawat@gmail.com",
+    website: "https://sumit-kumawat.vercel.app",
     bio: "A passionate developer dedicated to creating innovative solutions in the field of data science. Leading the technical development of LTCoE Data Science Hub with expertise in modern web technologies and data visualization."
   },
   {
